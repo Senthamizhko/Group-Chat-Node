@@ -10,7 +10,11 @@ I have developed this Real time web application using NodeJS, websocket: Socket.
 By using socket.IO, we could able to perform real time data transfer(As soon as User1 sends data,
 it will be received by User2 and Vice versa)- Bidirectional with Client and server.
 
+How to Use?
 
+Clone code in to your local repository
+do npm i
+npm run dev
 
 
 
